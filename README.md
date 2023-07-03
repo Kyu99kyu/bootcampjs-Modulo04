@@ -15,7 +15,6 @@ A implementar:
 - Challenge:
   - Sea el número que sea, lo quiero mostrar siempre con dos digitos (es decir el 1 -> 01, el 2 -> 02, el 10 -> 10, el 11 -> 11, etc), investiga como puedes formatear un número para que siempre tenga dos dígitos.
 
-Pista: Puedes usar la función [padStart](https://developer.mozilla.org/en-US/docs/Web/
-JavaScript/Reference/Global_Objects/String/padStart), la cual nos ayuda a añadir ceros o cualquier otro carácter que queramos al principio de una cadena de texto..
+Pista: Puedes usar la función [padStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart), la cual nos ayuda a añadir ceros o cualquier otro carácter que queramos al principio de una cadena de texto..
 
 <p> Si lo implementas en TypeScript en modo estricto, mejor que mejor.</p>
